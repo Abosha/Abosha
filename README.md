@@ -2,7 +2,7 @@
 - They/he
 - Humgarian
 - 2003
-- Mostly HTML and CSS
+- Mainly using HTML and CSS
 - A digital designer wannabe
 - I'm mostly gonna uploead some of my website templates
 
